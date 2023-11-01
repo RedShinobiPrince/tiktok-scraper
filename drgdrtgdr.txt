@@ -1,0 +1,3 @@
+tiktok-scraper from-file FILE ASYNC_TASKS -d -f all
+tiktok
+alexa.perezzzz

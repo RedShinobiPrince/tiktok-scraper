@@ -1,0 +1,12 @@
+tiktok-scraper from-file FILE ASYNC_TASKS -d -f all
+## Users
+tiktok
+alexa.perezzzz
+
+## Hashtag
+#love
+#summer
+#story
+
+## Video
+
